@@ -5,4 +5,4 @@ Set-WindowsExplorerOptions -EnableShowFileExtensions
 
 Update-ExecutionPolicy Unrestricted
 
-cinst googlechrome origin steam epicgameslauncher microsoft-windows-terminal discord line multimc jre8 jdk11 uplay goggalaxy vscode visualstudio2019community geforce-experience geekuninstaller -y
+cinst -y gsudo micro googlechrome origin steam epicgameslauncher microsoft-windows-terminal discord line multimc jre8 jdk11 uplay goggalaxy vscode visualstudio2019community geforce-experience geekuninstaller
