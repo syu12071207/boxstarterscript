@@ -5,4 +5,19 @@ Set-WindowsExplorerOptions -EnableShowFileExtensions
 
 Update-ExecutionPolicy Unrestricted
 
-cinst -y gsudo battle.net googlechrome origin steam epicgameslauncher microsoft-windows-terminal discord line multimc jre8 uplay goggalaxy vscode geforce-experience geekuninstaller
+cinst -y gsudo
+cinst -y battle.net
+cinst -y googlechrome
+cinst -y origin
+cinst -y steam
+cinst -y epicgameslauncher
+cinst -y microsoft-windows-terminal
+cinst -y discord
+cinst -y line
+cinst -y multimc
+cinst -y jre8
+cinst -y uplay
+cinst -y goggalaxy
+cinst -y geforce-experience
+cinst -y geekuninstaller
+cinst -y 7zip
